@@ -1,0 +1,14 @@
+{
+  "name": "Custom Tokenlist",
+  "logoURI": "ipfs://bafybeiasww47g5uiimdpj4nuayuz26s4ikmjkj4m63s2s5futtv3pusdhi",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xEb9B4701287B6c48CCccF400E8174808c4C406b0",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "ipfs://bafybeiasww47g5uiimdpj4nuayuz26s4ikmjkj4m63s2s5futtv3pusdhi"
+    }
+  ]
+}
